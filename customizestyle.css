@@ -1,0 +1,15 @@
+.panda-bg {
+    background: #FCEAE8;
+}
+
+.categories img {
+    width: 100px;
+}
+
+.panda-btn {
+    background: orange;
+}
+
+.panda-btn:hover {
+    background: orangered;
+}
